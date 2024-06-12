@@ -92,7 +92,7 @@ const {
        var _0x2fe2c7 = "" + _0x2608ab + _0x3a49e9;
        var _0x539d8f = {
          externalAdReply: {
-           title: "𝗦𝗨𝗛𝗔𝗜𝗟-𝗠𝗗",
+           title: "𝗞𝗘𝗜𝗧𝗛-𝗠𝗗",
            body: "" + _0x37b490,
            renderLargerThumbnail: true,
            thumbnail: log0,
@@ -134,7 +134,7 @@ const {
        var _0x236a49 = _0x10288a + "-" + _0x436585.toString().padStart(2, "0") + "-" + _0x511884.toString().padStart(2, "0");
        var _0x56eaaf = {
          externalAdReply: {
-           title: "𝗦𝗨𝗛𝗔𝗜𝗟-𝗠𝗗",
+           title: "𝗞𝗘𝗜𝗧𝗛-𝗠𝗗",
            body: _0x5f4890.subject,
            renderLargerThumbnail: true,
            thumbnail: log0,
@@ -1192,7 +1192,7 @@ const {
        forwardingScore: 999,
        isForwarded: true,
        externalAdReply: {
-         title: "Suhail-Md Broadcast",
+         title: "Keith-Md Broadcast",
          body: _0x553d05.senderName,
          renderLargerThumbnail: true,
          thumbnail: log0,
