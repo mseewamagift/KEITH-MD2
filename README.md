@@ -28,11 +28,10 @@
 ## 𝐏𝐥𝐞𝐚𝐬𝐞 𝐣𝐨𝐢𝐧 𝐦𝐲 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐧𝐝 𝐠𝐞𝐭 𝐟𝐫𝐞𝐞 𝐜𝐜 𝐚𝐧𝐝 𝐮𝐩𝐝𝐚𝐭𝐞𝐬👇👇
 
 
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  
-
+## 𝗝𝗢𝗜𝗡 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟👇👇
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47)
+  <div align="center"  >
+<h4 align="center">Plugins</h1>
    
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
