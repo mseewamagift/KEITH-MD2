@@ -24,7 +24,7 @@
 
   <a href="https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
   ## Get your creds.json from replit
-  <a href="https://replit.com/@kkeizzah/Keith-Md-pair-code"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐜𝐫𝐞𝐝𝐬.𝐣𝐬𝐨𝐧" width="300"></a>
+  <a href="https://replit.com/@kkeizzah/Keith-Md-pair-code"><img src="https://img.shields.io/badge/creds%20pair%20code-green" alt="𝐜𝐫𝐞𝐝𝐬.𝐣𝐬𝐨𝐧" width="300"></a>
 
 <a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗠𝗘 𝗚𝗘𝗘
