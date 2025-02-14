@@ -1,15 +1,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> KEITH MD V2 </h1>
+ <h1 align="center"> JAMES MD V2 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+K̑̈Ȇ̈Ȋ̈T̑̈H̑̈+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+K̑̈Ȇ̈Ȋ̈T̑̈H̑̈K̑̈Ȇ̈Ȋ̈Z̑̈Z̑̈Ȃ̈H̑̈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+JAMES+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+JAMESTECH )](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> KEITH MD💥, A Simple WhatsApp user BOT, Created by Keith Tech.
+<p align="center"> JAMES TECH 💥, A Simple WhatsApp user BOT, Created by James Tech.
 </p>
 
 
